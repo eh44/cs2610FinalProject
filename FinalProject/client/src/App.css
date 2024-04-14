@@ -1,0 +1,19 @@
+nav {
+  background-color: #f0f0f0;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+/* Link styles */
+.pages {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 4px;
+}
+
+.pages:hover {
+  background-color: #ddd;
+}
